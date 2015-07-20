@@ -1,6 +1,6 @@
 {
   "name": "jquery-autoselect",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Turns any select tag into an autocomplete field with weighted options, synonyms and loose matching.",
   "main": "index.js",
   "scripts": {

@@ -37,7 +37,7 @@ jqueryAutoselect($);
 	<script src="/path/to/jquery-1.11.1.min.js"></script>
 	<script src="/path/to/jquery-ui.min.js"></script>
 	<script src="demo.compiled.js"></script>
-	<link rel="stylesheet" href="jquery-ui.css">
+	<link rel="stylesheet" href="/path/to/jquery-ui/themes/base/all.css">
 	<style>
 	  body {
 	    font-family: Arial, Verdana, sans-serif;
